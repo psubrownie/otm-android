@@ -48,7 +48,7 @@
         <item name="android:layout_margin">8dp</item>
     </style>
 
-    <style name="small_button_primary" parent="android:attr/buttonStyleSmall">
+    <style name="small_button_primary" parent="@android:style/Widget.Button.Small">
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">2</item>
